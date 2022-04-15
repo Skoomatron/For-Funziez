@@ -1,4 +1,3 @@
-import './App.css';
 import React from 'react';
 import Box1 from './Box1.jsx';
 import {RecoilRoot} from 'recoil';
